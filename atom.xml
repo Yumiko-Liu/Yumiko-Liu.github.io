@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yumiko&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/Yumiko-Liu/"/>
+  <updated>2017-12-12T12:32:19.000Z</updated>
+  <id>https://github.com/Yumiko-Liu/</id>
+  
+  <author>
+    <name>Yumiko</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>跟大家說聲 Hi~</title>
+    <link href="https://github.com/Yumiko-Liu/2017/12/12/hi/"/>
+    <id>https://github.com/Yumiko-Liu/2017/12/12/hi/</id>
+    <published>2017-12-12T06:32:31.000Z</published>
+    <updated>2017-12-12T12:32:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>歡迎來到我的Blog，ԅ(¯﹃¯ԅ)</p></blockquote><h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><p>我叫Yumiko，是一名web前端工程師，喜歡日本文化。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;歡迎來到我的Blog，ԅ(¯﹃¯ԅ)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
